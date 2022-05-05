@@ -24,11 +24,11 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "5328388669:AAHoLg2YNuhJEUtF3uH299lsNUl69019iWQ"
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "7322056"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
@@ -36,7 +36,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": "1387186514"
+      "value": ""
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
